@@ -1,10 +1,10 @@
-﻿internal class Program
+internal class Program
 {
     private static void Main(string[] args)
     {
        bool gameOver=false;
             while (!gameOver)
-            {
+            {
                 //Input verwerken
  
                 //Update game 
