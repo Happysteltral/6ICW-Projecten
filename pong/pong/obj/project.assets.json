@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vergn\\OneDrive - Sint-Jan Berchmansinstituut vzw\\Documenten\\6ICW\\Projecten .NET\\ConsoleApp2\\ConsoleApp2.csproj",
-      "projectName": "ConsoleApp2",
-      "projectPath": "C:\\Users\\vergn\\OneDrive - Sint-Jan Berchmansinstituut vzw\\Documenten\\6ICW\\Projecten .NET\\ConsoleApp2\\ConsoleApp2.csproj",
+      "projectUniqueName": "C:\\Users\\vergn\\OneDrive - Sint-Jan Berchmansinstituut vzw\\Documenten\\6ICW\\Projecten .NET\\pong\\pong\\pong.csproj",
+      "projectName": "pong",
+      "projectPath": "C:\\Users\\vergn\\OneDrive - Sint-Jan Berchmansinstituut vzw\\Documenten\\6ICW\\Projecten .NET\\pong\\pong\\pong.csproj",
       "packagesPath": "C:\\Users\\vergn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vergn\\OneDrive - Sint-Jan Berchmansinstituut vzw\\Documenten\\6ICW\\Projecten .NET\\ConsoleApp2\\obj\\",
+      "outputPath": "C:\\Users\\vergn\\OneDrive - Sint-Jan Berchmansinstituut vzw\\Documenten\\6ICW\\Projecten .NET\\pong\\pong\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vergn\\AppData\\Roaming\\NuGet\\NuGet.Config"
