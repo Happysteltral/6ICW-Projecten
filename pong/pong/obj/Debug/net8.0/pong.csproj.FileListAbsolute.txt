@@ -1,0 +1,15 @@
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\bin\Debug\net8.0\pong.exe
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\bin\Debug\net8.0\pong.deps.json
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\bin\Debug\net8.0\pong.runtimeconfig.json
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\bin\Debug\net8.0\pong.dll
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\bin\Debug\net8.0\pong.pdb
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.AssemblyInfoInputs.cache
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.AssemblyInfo.cs
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.csproj.CoreCompileInputs.cache
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.sourcelink.json
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.dll
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\refint\pong.dll
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.pdb
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\pong.genruntimeconfig.cache
+C:\Users\vergn\OneDrive - Sint-Jan Berchmansinstituut vzw\Documenten\6ICW\Projecten .NET\pong\pong\obj\Debug\net8.0\ref\pong.dll
