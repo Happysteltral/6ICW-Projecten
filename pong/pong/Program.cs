@@ -11,6 +11,8 @@ internal class Program
                 //Input verwerken 
                 //Update game 
                 //Render (Console.Write/Console.WriteLine)
+                // Console.WindowWidth
+                
                 Console.CursorVisible = false;
                 Console.SetCursorPosition(balx,baly);
                 Console.WriteLine("O");
